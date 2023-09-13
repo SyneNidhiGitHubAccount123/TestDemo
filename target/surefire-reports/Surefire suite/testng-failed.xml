@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Surefire suite]">
+  <test name="Surefire test(failed)">
+    <classes>
+      <class name="CrudOperation.PutRequestTest">
+        <methods>
+          <include name="name"/>
+        </methods>
+      </class> <!-- CrudOperation.PutRequestTest -->
+      <class name="CrudOperation.PostReqTest">
+        <methods>
+          <include name="postReq"/>
+        </methods>
+      </class> <!-- CrudOperation.PostReqTest -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->

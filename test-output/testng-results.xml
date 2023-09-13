@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2841" started-at="2023-07-03T11:54:15Z" finished-at="2023-07-03T11:54:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2841" started-at="2023-07-03T11:54:15Z" finished-at="2023-07-03T11:54:18Z">
+      <class name="PostReq2.StudentPostreq">
+        <test-method status="PASS" signature="postreq()[pri:0, instance:PostReq2.StudentPostreq@5ae9a829]" name="postreq" duration-ms="2817" started-at="2023-07-03T17:24:15Z" finished-at="2023-07-03T17:24:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postreq -->
+      </class> <!-- PostReq2.StudentPostreq -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
